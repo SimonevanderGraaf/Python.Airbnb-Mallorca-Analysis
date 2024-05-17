@@ -25,6 +25,8 @@ The Inside Airbnb website shows that the data of Mallorca has been last updated 
 For this project I used Tableau and Python with the following libraries:
 - pandas & numpy - for data analysis
 - seaborn, matplotlib, sklearn, and folium - for data visualization
+- json and geojson - for spatial analysis
+The business case with extra visualizations for this project were created in Tableau Public. It can be found here: [Airbnb Mallorca Business Case](https://public.tableau.com/app/profile/simone.van.der.graaf/viz/ProjectAirbnbMallorca-CareerFoundry/Story1?publish=yes)  
 # Sources
 The dataset comes from Inside Airbnb, the database website from Airbnb. Given the fact that the 
 source is from the company, the dataset is trustworthy.
