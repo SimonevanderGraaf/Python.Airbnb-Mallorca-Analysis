@@ -1,12 +1,10 @@
 # Python.Airbnb-Mallorca-Analysis
-The goals for this project were sourcing my own dataset and explore relationships within the data in Python. 
-I chose the dataset of Airbnb Mallorca because I live there partly and because the data is of high quality. 
-
-After the initial steps in the exploratory analysis I created the following hypothesis:
+The goals for this project were sourcing my own dataset and explore relationships within the data in Python. After the initial steps in the exploratory analysis I created the following hypothesis:
 - If the review scores rating is higher, then the review scores of the location are also higher.
 
+I used the results that I created in Python to build a business case in Tableau.
 
-
+I chose the dataset of Airbnb Mallorca because I live there partly and because the data is of high quality. 
 
 # Research Questions
 The questions that are explored in several analysis steps in Python are:
@@ -41,6 +39,8 @@ For this project I used Tableau and Python with the following libraries:
 # Sources
 The dataset comes from Inside Airbnb, the database website from Airbnb. Given the fact that the 
 source is from the company, the dataset is trustworthy.
+
+The website of Nasdaq offers a wide variety in financial data from different companies and can therefore be seen as trustworthy. To use the data in Pyhon I imported the API key lniked to my created profile.
 
 # Visualizations
 The business case with extra visualizations for this project were created in Tableau Public. It can be found here: [Airbnb Mallorca Business Case](https://public.tableau.com/app/profile/simone.van.der.graaf/viz/ProjectAirbnbMallorca-CareerFoundry/Story1?publish=yes)  
