@@ -1,5 +1,13 @@
 # Python.Airbnb-Mallorca-Analysis
-Instacart is an online grocery store that operates through an app. Even though their sales are going well, they whant clear insights in their customer behaviour and sales patters. My task was to perform an initial data and exploratory analysis of their orders, products and customers and suggest strategies regarding their price ranges, customer profiling and advertising. 
+The goals for this project were sourcing my own dataset and explore relationships within the data in Python. 
+I chose the dataset of Airbnb Mallorca because I live there partly and because the data is of high quality. 
+
+After the initial steps in the exploratory analysis I created the following hypothesis:
+- If the review scores rating is higher, then the review scores of the location are also higher.
+
+
+
+
 # Research Questions
 The questions that are explored in several analysis steps in Python are:
 - Are the listings spread over the Island? Do most listings fall into a specific geographical category, for example next to the beach or in the mountains?
@@ -21,12 +29,18 @@ the reviews of the listings.
 
 The Inside Airbnb website shows that the data of Mallorca has been last updated the 23rd of March 
 2024 and that in general it is updated every quarter. The data therefore stays up to date.
+
+For the time series analysis I have used Zillow Housing data via Nasdaq.
+
 # Tools
 For this project I used Tableau and Python with the following libraries:
 - pandas & numpy - for data analysis
 - seaborn, matplotlib, sklearn, and folium - for data visualization
 - json and geojson - for spatial analysis
-The business case with extra visualizations for this project were created in Tableau Public. It can be found here: [Airbnb Mallorca Business Case](https://public.tableau.com/app/profile/simone.van.der.graaf/viz/ProjectAirbnbMallorca-CareerFoundry/Story1?publish=yes)  
+
 # Sources
 The dataset comes from Inside Airbnb, the database website from Airbnb. Given the fact that the 
 source is from the company, the dataset is trustworthy.
+
+# Visualizations
+The business case with extra visualizations for this project were created in Tableau Public. It can be found here: [Airbnb Mallorca Business Case](https://public.tableau.com/app/profile/simone.van.der.graaf/viz/ProjectAirbnbMallorca-CareerFoundry/Story1?publish=yes)  
